@@ -1,2 +1,2 @@
-# zdk-advanture
+# zet-advanture
 hunter x hunter
