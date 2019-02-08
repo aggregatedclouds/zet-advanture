@@ -1,0 +1,12 @@
+subplot(3,2,1);
+step1;
+subplot(3,2,2);
+step2;
+subplot(3,2,3);
+step3;
+subplot(3,2,4);
+step4;
+subplot(3,2,5);
+step5;
+subplot(3,2,6);
+step6;
